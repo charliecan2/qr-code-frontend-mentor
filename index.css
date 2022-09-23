@@ -1,22 +1,15 @@
+html, body {
+  font-family: 'Outfit', sans-serif;
+}
+
 .background {
   background-color: hsl(212, 45%, 89%)
 };
 
-.card-body {
-  font-family: 'Outfit', sans-serif;
-}
-
-.card-img-top {
-  width: 80%;
-  height: 80%;
-}
-
 .card-title {
-  font-weight: 700;
   color: hsl(218, 44%, 22%);
 }
 
 .card-text {
-  font-weight: 400;
   font-size: 15px;
 }
